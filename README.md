@@ -13,6 +13,4 @@ Designed with accessibility standards to ensure usability for all users.
 Lightweight code and optimized assets for fast loading times.
 
 ## Technologies Used
-HTML5
-CSS3
-JavaScript
+HTML5, CSS3, JavaScript
